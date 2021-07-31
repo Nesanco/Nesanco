@@ -4,7 +4,6 @@
 <p align="center">
   Hi I do things
 </p>
-![](https://visitor-badge.laobi.icu/badge?page_id=Nesanco.Nesanco)
 
 
 
