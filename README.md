@@ -5,9 +5,8 @@
   Hi I do things
 </p>
 <p align="center">
-  <img width="75" height="30" src="https://visitor-badge.laobi.icu/badge?page_id=Nesanco.visitor-badge">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nesanco")
-">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nesanco.visitor-badge">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nesanco">
 </p>
 
 
