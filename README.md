@@ -4,7 +4,7 @@
 <p align="center">
   Hi I do things
 </p>
-<img width="300" height="300" src="https://visitor-badge.laobi.icu/badge?page_id=Nesanco.visitor-badge">
+<img width="200" height="100" src="https://visitor-badge.laobi.icu/badge?page_id=Nesanco.visitor-badge">
 
 
 
